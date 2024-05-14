@@ -10,3 +10,7 @@ npm install
 ```sh
 npm run dev
 ```
+
+## login password
+
+To open admin: flashing
